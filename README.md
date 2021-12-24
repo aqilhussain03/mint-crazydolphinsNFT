@@ -1,14 +1,10 @@
-# Welcome to The Stripes NFT 💎
+# Welcome to Crazy Dolphins NFT 💎
 
 ![](https://github.com/aqilhussain03)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
 To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/AliSolanki)
-
-[💬 Telegram](https://t.me/studentsamaj)
 
 [🐦 Twitter](https://twitter.com/Crazy_Dolphins_)
 
@@ -48,18 +44,18 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
 
 ```json
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "Crazy Dolphin NFT",
+  "SYMBOL": "DOLPHIN",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 49000000000000000000,
+  "DISPLAY_COST": 49,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
