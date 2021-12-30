@@ -9,9 +9,9 @@
   "NFT_NAME": "Crazy Dolphins NFT",
   "SYMBOL": "DOLPHIN",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
-  "GAS_LIMIT": 285000,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 1275520,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/crazydolphins-nft",
   "SHOW_BACKGROUND": true
