@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "",
-  "SCAN_LINK": "",
+  "CONTRACT_ADDRESS": "0xD4329D796959df5ce64A897A9aBAc5a779D23511",
+  "SCAN_LINK": "https://polygonscan.com/token/0xD4329D796959df5ce64A897A9aBAc5a779D23511",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -9,10 +9,10 @@
   "NFT_NAME": "Crazy Dolphins NFT",
   "SYMBOL": "DOLPHIN",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 49000000000000000000,
-  "DISPLAY_COST": 49,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://crazydolphinsnft.ml/",
+  "MARKETPLACE_LINK": "https://mintcrazydolphinsnft.ml/",
   "SHOW_BACKGROUND": true
 }
