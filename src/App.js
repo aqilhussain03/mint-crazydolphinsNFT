@@ -270,7 +270,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  50% OFF ONLY FOR 4 DAYS.
+                  90% OFF | JUST 10 MATIC 
                 </s.TextDescription>
 
                 <s.SpacerXSmall />
