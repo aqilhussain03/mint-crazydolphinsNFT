@@ -273,11 +273,17 @@ function App() {
                   100% OFF | FREE MINT 
                 </s.TextDescription>
 
+                <s.TextDescription
+                  style={{ textAlign: "center", color: "var(--accent-text)" }}
+                >
+                  MAX 20 NFTs Per Address ( UNLIMITED FREE MINTS ) 
+                </s.TextDescription>
+
                 <s.SpacerXSmall />
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Excluding gas fees.
+                  LOW GAS FEES(  IN POLYGON BLOCKCHAIN ).
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
