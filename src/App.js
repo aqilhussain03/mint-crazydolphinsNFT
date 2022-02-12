@@ -283,7 +283,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  LOW GAS FEES(  IN POLYGON BLOCKCHAIN ).
+                  LOW GAS FEES ( IN POLYGON BLOCKCHAIN )
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
